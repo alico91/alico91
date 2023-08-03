@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Ali Nalawala
-- 👀 I’m interested in Software Engineering and the decentralized blockchain world.
-- 🌱 I’m currently learning Spring framework, Big Data and Solidity for Smart Contract Development.
-- 💞️ I’m looking to collaborate on Dapp Development.
+- 👀 I’m interested in Quantitative Finance and Financial Engineering.
 - 📫 How to reach me alinalawala360@gmail.com
 
 <!---
